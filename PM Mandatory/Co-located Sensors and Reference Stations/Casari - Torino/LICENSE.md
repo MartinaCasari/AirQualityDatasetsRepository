@@ -13,3 +13,4 @@ URL: https://zenodo.org/records/10037781
 	- Low-cost sensors: ~ 15 minutes
 	- Monitoring station: 1 per hour
 - Date Period: 2022-03-01 - 2022-12-30
+- Location: Turin (Italy)
