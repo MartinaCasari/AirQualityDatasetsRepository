@@ -11,7 +11,7 @@ Feel free to explore the datasets and use them for research, analysis, visualiza
 Datasets in this repository are sourced from reputable organizations, government agencies, research institutions, and public databases dedicated to monitoring and reporting air quality. Each dataset is accompanied by relevant metadata and attribution information to ensure proper credit and compliance with licensing agreements.
 
 ## License
-Unless otherwise specified, the datasets in this repository are made available under open data licenses that permit sharing, adaptation, and commercial use with appropriate attribution. Please refer to individual dataset files or the repository's LICENSE file for specific licensing details.
+Unless otherwise specified, the datasets in this repository are made available under open data licenses that permit sharing, adaptation, and commercial use with appropriate attribution. Please refer to individual dataset files or the repository's README file for specific licensing details.
 
 ## Contributions
 You are encouraged to contribute additional datasets, improvements to existing datasets, documentation enhancements, or bug fixes to this repository. To contribute, please fork the repository, make your changes, and submit a pull request. Your contributions will help expand the repository's utility and impact.
